@@ -1,5 +1,4 @@
--- LinkedFolio bootstrap schema for a new Supabase project
--- Run this whole file once in Supabase SQL Editor.
+
 
 create extension if not exists pgcrypto;
 
